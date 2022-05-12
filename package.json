@@ -1,0 +1,25 @@
+{
+  "name": "literate-octo-disco",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holmeso/literate-octo-disco.git"
+  },
+  "keywords": [
+    "testing",
+    "for",
+    "sem",
+    "rel"
+  ],
+  "author": "holmeso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holmeso/literate-octo-disco/issues"
+  },
+  "homepage": "https://github.com/holmeso/literate-octo-disco#readme"
+}
