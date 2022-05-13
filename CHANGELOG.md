@@ -1,3 +1,11 @@
+### [1.2.1](https://github.com/holmeso/literate-octo-disco/compare/v1.2.0...v1.2.1) (2022-05-13)
+
+
+### Bug Fixes
+
+* **file3.txt:** forgot another line ([1c75ace](https://github.com/holmeso/literate-octo-disco/commit/1c75ace00817dddaf1a529b7d95f657ceeb61eef))
+* **file4.txt:** another line to be added ([c414bae](https://github.com/holmeso/literate-octo-disco/commit/c414bae1c6bceaeb50d6133d124423f59e40ba43))
+
 ## [1.2.0](https://github.com/holmeso/literate-octo-disco/compare/v1.1.0...v1.2.0) (2022-05-13)
 
 
